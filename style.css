@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+/* main page styling */
+.main-container{
+    background-color: rgb(38, 134, 134);
+    height: 100%;
+    width: 100%;
+}
+.createBlogModal .modal-dialog {
+    min-width: 60%;
+  }
+  /* the end */
+
+  /*login & Signup Styling */
+.main-Container{
+    background-image: url("image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+    
+    }
+    h1{
+        color: rgba(40, 41, 41, 0.705);
+        padding-top:20px ;
+    
+    }
+    .auth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    box-shadow: 29px 29px 58px #000000, -29px -20px 58px #000000;
+    }
+    .form-control{
+        width: 350px;
+    }
+    #male{
+        font-weight: 500;
+        
+    
+    }
+    h4{
+        color: rgb(14, 97, 129);
+    }
+    .loggg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 35px;
+    }
